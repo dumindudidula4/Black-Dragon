@@ -30,7 +30,7 @@ global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
 global.packname = "Sticker By ⚠️𝗗𝗨𝗠𝗜𝗬𝗔⃤𝗕𝗢𝗧👿" //ur sticker watermark packname
 global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "⚠️𝗗𝗨𝗠𝗜𝗬𝗔⃤𝗕𝗢𝗧👿" //ur watermark
+global.wm = "⚠️𝗗𝗨𝗠𝗜𝗬𝗔⃤𝗕𝗢𝗧👿Creat By i Boy⛓️" //ur watermark
 
 // Other
 global.sessionName = 'session'
